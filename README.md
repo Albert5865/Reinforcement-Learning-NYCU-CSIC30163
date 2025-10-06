@@ -19,7 +19,7 @@ This repository contains the coursework for the **Selected Topics in Reinforceme
 - **Highlights:**
   - Learned from after-states with reverse-time updates.
   - Report includes TD backup diagrams and training methodology.
-- 📄 [Lab1 Report PDF](./Lab1_report_109612019.pdf)
+- 📄 [Lab1 Report PDF](Lab1/Lab1_report_109612019.pdf)
 - 📄 [Lab1 Assignment Guide](./Lab1-Guide.pdf)
 
 ---

@@ -19,8 +19,8 @@ This repository contains the coursework for the **Selected Topics in Reinforceme
 - **Highlights:**
   - Learned from after-states with reverse-time updates.
   - Report includes TD backup diagrams and training methodology.
+- 📄 [Lab1 Assignment Guide](Lab1/Lab1-TD.pdf)
 - 📄 [Lab1 Report PDF](Lab1/Lab1_report_109612019.pdf)
-- 📄 [Lab1 Assignment Guide](./Lab1-Guide.pdf)
 
 ---
 
@@ -35,8 +35,8 @@ This repository contains the coursework for the **Selected Topics in Reinforceme
   - **Dueling DQN** – separated state-value and advantage for more robust learning.
   - **Parallelized Rollouts** – improved exploration via multiple simultaneous environments.
 - **Visualization:** TensorBoard logs included for all model variants.
-- 📄 [Lab2 Report PDF](./Lab2_report.pdf)
-- 📄 [Lab2 Assignment Guide](./Lab2-Guide.pdf)
+- 📄 [Lab2 Assignment Guide](Lab2/Lab2-DQN.pdf)
+- 📄 [Lab2 Report PDF](Lab2/Lab2_report.pdf)
 
 ---
 
@@ -50,8 +50,8 @@ This repository contains the coursework for the **Selected Topics in Reinforceme
 - **Topics Discussed:**
   - Update stability with clipped ratio.
   - Lambda parameter effects on training and performance.
-- 📄 [Lab3 Report PDF](./Lab3_report.pdf)
-- 📄 [Lab3 Assignment Guide](./Lab3-Guide.pdf)
+- 📄 [Lab3 Assignment Guide](Lab3/Lab3-PPO.pdf)
+- 📄 [Lab3 Report PDF](Lab3/Lab3_report.pdf)
 
 ---
 

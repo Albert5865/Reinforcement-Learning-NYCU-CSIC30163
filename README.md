@@ -1,4 +1,4 @@
-# (Graaduate level) Selected Topics in Reinforcement Learning – Fall 2023 (NYCU) - CSIC30163
+# (Graduate level) Selected Topics in Reinforcement Learning – Fall 2023 (NYCU) - CSIC30163
 
 This repository contains the coursework for the **Selected Topics in Reinforcement Learning** course offered at **National Yang Ming Chiao Tung University (NYCU)**, Fall 2023. The course covers fundamental and advanced concepts in reinforcement learning (RL), with hands-on lab projects focusing on classic games like **2048** and **Atari environments** using modern RL algorithms such as **TD(0)**, **DQN**, **Double DQN**, **Dueling DQN**, and **PPO**.
 
